@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- BuildStream icon: white sprout (content seeds) on BlueForest blue squircle -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00B8F5"/>
+      <stop offset="1" stop-color="#0078B8"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <!-- stem -->
+  <path d="M 512 800 C 512 690 512 610 512 500"
+        fill="none" stroke="#FFFFFF" stroke-width="60" stroke-linecap="round"/>
+  <!-- left leaf (large) -->
+  <path d="M 512 560
+           C 500 420 400 330 258 318
+           C 250 468 360 566 512 560 Z"
+        fill="#FFFFFF"/>
+  <!-- right leaf (small, higher) -->
+  <path d="M 512 452
+           C 522 342 600 272 712 264
+           C 718 382 634 458 512 452 Z"
+        fill="#FFFFFF"/>
+  <!-- ground line -->
+  <path d="M 372 800 H 652" fill="none" stroke="#FFFFFF" stroke-width="60" stroke-linecap="round"/>
+</svg>
