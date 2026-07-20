@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- BlueSales icon: sales funnel converting leads (dots) into revenue (blue coin) — black-outline family style -->
+  <!-- lead dots entering the funnel -->
+  <circle cx="176" cy="60" r="26" fill="#000000"/>
+  <circle cx="256" cy="46" r="26" fill="#000000"/>
+  <circle cx="336" cy="60" r="26" fill="#000000"/>
+  <!-- funnel body -->
+  <path d="M96 132 h320 l-118 144 v64 h-84 v-64 Z"
+        fill="#FFFFFF" stroke="#000000" stroke-width="28" stroke-linejoin="round"/>
+  <!-- blue coin dropping out (clear gap below the spout) -->
+  <circle cx="256" cy="434" r="50" fill="#009FE0" stroke="#000000" stroke-width="28"/>
+</svg>
