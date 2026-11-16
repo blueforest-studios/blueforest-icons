@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Hardware Selling System icon: used camera with a blue price tag hanging from it -->
+  <path d="M 60 170 Q 60 140 90 140 H 170 L 196 100 H 300 L 326 140 H 410 Q 440 140 440 170 V 360 Q 440 390 410 390 H 90 Q 60 390 60 360 Z"
+        fill="#FFFFFF" stroke="#000000" stroke-width="30" stroke-linejoin="round"/>
+  <circle cx="240" cy="262" r="78" fill="#FFFFFF" stroke="#000000" stroke-width="30"/>
+  <circle cx="240" cy="262" r="30" fill="#000000"/>
+  <path d="M 408 228 Q 452 260 432 312" fill="none" stroke="#000000" stroke-width="16" stroke-linecap="round"/>
+  <path d="M 432 312 L 474 354 V 446 Q 474 466 454 466 H 410 Q 390 466 390 446 V 354 Z"
+        fill="#009FE0" stroke="#000000" stroke-width="24" stroke-linejoin="round"/>
+  <circle cx="432" cy="362" r="10" fill="#000000"/>
+</svg>

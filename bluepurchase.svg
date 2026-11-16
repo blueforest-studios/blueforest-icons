@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- BluePurchase icon: price tag for a planned gear purchase; the blue badge with a down arrow is the deal alert -->
+  <path d="M 64 220 L 220 64 H 360 Q 384 64 384 88 V 228 L 228 384 Q 204 408 180 384 L 64 268 Q 40 244 64 220 Z"
+        fill="#FFFFFF" stroke="#000000" stroke-width="30" stroke-linejoin="round"/>
+  <circle cx="306" cy="142" r="26" fill="#000000"/>
+  <circle cx="378" cy="378" r="86" fill="#009FE0" stroke="#000000" stroke-width="30"/>
+  <path d="M 378 330 V 418" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round"/>
+  <path d="M 342 386 L 378 422 L 414 386" fill="none" stroke="#000000" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
